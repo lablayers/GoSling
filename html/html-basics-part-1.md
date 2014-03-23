@@ -68,4 +68,4 @@
 
 "In our simulator, you should see Hello World in the tab on the right."
 
-"Great job! You can move on to the next step by clicking here: (?step2)[?step2]"
+"Great job! You can move on to the next step by clicking here: [?step2](?step2)"
