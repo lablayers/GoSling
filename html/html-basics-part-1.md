@@ -8,7 +8,7 @@
 
 "That stands for Hypertext Markup Laungage, but most people know it as HTML."
 
-"Start your page by typing <html>"
+"Start your page by typing \<html>"
 
 ````html
 <html>
@@ -21,7 +21,7 @@
 </html>
 ````
 
-"There are two main parts of a html document; the <head> and the <body>."
+"There are two main parts of a html document; the \<head\> and the \<body>."
 
 
 ````html
@@ -29,13 +29,13 @@
 <html>
 ````
 
-"First, lets explore the <head> tag a bit."
+"First, lets explore the \<head> tag a bit."
 
-"Inside <head> and </head> is where we set up the document."
+"Inside \<head> and \</head> is where we set up the document."
 
 "For now, lets just add a page title."
 
-"First, add the <head> tag and close it with </head> inside of the <html> tag."
+"First, add the \<head> tag and close it with \</head> inside of the <html> tag."
 
 ````html
 <html>
@@ -44,7 +44,7 @@
 <html>
 ````
 
-"Then, inside of the <head> tag, add the title tag <title> and add its closing tag, </title>"
+"Then, inside of the \<head> tag, add the title tag \<title> and add its closing tag, \</title>"
 
 ````html
 <html>
@@ -54,7 +54,7 @@
 <html>
 ````
 
-"Inside of the <title> tag is where we will set our title."
+"Inside of the \<title> tag is where we will set our title."
 
 "So inside of the title, type Hello World, and look over to the right."
 
