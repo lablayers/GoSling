@@ -14,7 +14,7 @@
 <html>
 ````
 
-"For almost every tag, we have to close it, so add </html> on the next line to close the document."
+"For almost every tag, we have to close it, so add \</html> on the next line to close the document."
 
 ````html
 <html>
